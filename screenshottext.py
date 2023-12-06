@@ -1,3 +1,7 @@
+"""
+  publish with BSD Licence.
+	Copyright (c) Terry Lao
+"""
 # REQUIREMENT:
 #1.	Python 3.7
 #2.	pytesseract
